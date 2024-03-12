@@ -1,0 +1,69 @@
+what is SDLC process: SOftware development lifecycle
+
+
+what is waterfall & Agile process (99 % most of the company is using currently)
+
+Water fall -- legacy process
+V model
+Spiral Model
+Increment model
+Agile model-Trend
+
+Water fall--> it is an one of the SDLC process
+
+SRS -- SOftware Requirements Specfication
+BRD -- Business Requirements Developments
+BA  -- Business Analyst 
+HLD --High lavle Design
+LLD -- Low lavle design
+FR --
+NON- FR--
+
+what is SRS/BRD
+
+
+Agile Process: is noting but is a incremnetal model or spiral model
+-------------------------------------
+
+Requirements  --- Prodcut owner -(Clients) ,BA
+Analysis      -- Architect,Tech lead
+Design --        Tech lead /Developers
+Development -- Developers
+Testing -    QA/Testers
+Deployment & Support(Operational)
+
+what type of meetings?  (All team members,PO,BA,Scrum master,Architect,dev,testers ..ets)
+---------------------
+1-Backlog grooming  ----  weekly once -Requirements for prodcut,Grrom the stories,user story points 1--5
+2-Sprint planning --- 2 weeks once -- Dev/QA they need to pick /Assign the user stories (scrum master assign)
+3-Daily scrum /Standup -- every day it will happen ( 15 mints) with in sprint -14 days)
+what you have done yesterday,what you are doing to working today,any issue or bloccker)
+
+4-Sprint review/demo -- 2 weeks once - demo with PO and Team,will take suggestions
+
+5-Retrospective -- www - 
+                  what went well
+				  what went wrong
+				  what we need to improve
+				  
+    fast delivery
+	
+	2 or 3 sprints we are going to deploy our app into production
+	
+	Regions
+	------
+	Dev
+	QA -test
+	Prod --live
+
+
+sprint - 2 weeks
+ 14-4 -- 10 working days
+ 
+ 8 points - 1 story point = 6 hours 8*6=48
+ 
+ 
+ 
+ 
+ 
+ 
