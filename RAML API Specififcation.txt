@@ -44,5 +44,13 @@ securedBy:
           application/json:
             example: !include Examples/Responses/SuccessResponseSample.raml
               
-          
+
+
+By using is key word to access Traits in th e RAML and traits is using before resource
+
+traits:
+  input:
+/Search
+  Get
+      
       
